@@ -1,5 +1,4 @@
 #Starting code bundle
-Unfinished as of 02/03/2017.
 
 TODO:  
 -all the stuff in issues  
@@ -12,7 +11,6 @@ Overview of the project can be seen in README.ipynb
 
 Generation - module containing event generation methods  
 Reconstruction - module containing track reconstruction methods  
-Analysis - ?
 
 #Creating datasets
 Currently in its infancy, build_datasets.py is a program that takes command line arguments to create datasets.  
